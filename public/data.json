@@ -1,0 +1,32 @@
+[
+    {
+        "id": "625592dd4682c6c922f7e384",
+        "image": "https://i.ibb.co/w7pfn8G/image.jpg",
+        "title": "Grand Superior Room"
+    },
+    {
+        "id": "625592dd32603581db15eb45",
+        "image": "https://i.ibb.co/8gYH0QT/image1.jpg",
+        "title": "Double Bedroom"
+    },
+    {
+        "id": "625592dde276556a61bdd264",
+        "image": "https://i.ibb.co/VwcG0TC/image2.jpg",
+        "title": "Single Bedroom"
+    },
+    {
+        "id": "625592dd468343c922f7e384",
+        "image": "https://i.ibb.co/G0b3kDH/image3.jpg",
+        "title": "Large Bathroom"
+    },
+    {
+        "id": "625592dd32602356db15eb45",
+        "image": "https://i.ibb.co/0yTHxwW/image4.jpg",
+        "title": "King Size Bed"
+    },
+    {
+        "id": "625592dde287656a61bdd264",
+        "image": "https://i.ibb.co/nbvJnZm/image5.jpg",
+        "title": "Simple Room"
+    }
+]
