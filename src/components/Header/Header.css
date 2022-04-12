@@ -1,0 +1,20 @@
+.header .container {
+    height: 80px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header .container h3 {
+    color: #08cc7f;
+}
+
+.header .container a {
+    font-weight: 500;
+    transition: .3s ease-in-out;
+}
+
+.header .container a:hover {
+    color: #08cc7f;
+    font-weight: 500;
+}
