@@ -10,7 +10,7 @@ const Header = () => {
                 <h3 onClick={() => navigate('/')}>Hotel Booking</h3>
 
                 <div>
-                    <Link to="/">Home</Link>
+                    <Link to="/home">Home</Link>
                 </div>
             </nav>
         </div>
