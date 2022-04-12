@@ -1,4 +1,3 @@
-import { async } from '@firebase/util';
 import React, { useState } from 'react';
 import {
     useCreateUserWithEmailAndPassword,
@@ -13,7 +12,7 @@ const Signup = () => {
     const [email, setEmail] = useState('');
     const [password, setPassword] = useState('');
 
-    const [createUserWithEmailAndPassword, user] = useCreateUserWithEmailAndPassword(auth);
+    const [createUserWithEmailAndPassword] = useCreateUserWithEmailAndPassword(auth);
 
     const [updateProfile] = useUpdateProfile(auth);
 
